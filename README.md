@@ -9,7 +9,6 @@ I’m a developer focused on system-level programming, backend engineering, and 
 ### Languages
 ![C](https://img.shields.io/badge/C-0a0a0a?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-0a0a0a?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat&logo=javascript&logoColor=white)
 
