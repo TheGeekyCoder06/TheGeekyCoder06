@@ -1,6 +1,6 @@
 # Harshith M
 
-I’m a developer interested in system-level programming, backend engineering, and full-stack web development. I work primarily with C++, Python, Java, JavaScript, and the MERN stack. I enjoy solving algorithmic problems and building scalable applications.
+I’m a developer focused on system-level programming, backend engineering, and full-stack web development. I work primarily with C++, Python, Java, JavaScript, and the MERN/Next.js stack. I enjoy solving algorithmic problems and building scalable applications.
 
 ---
 
@@ -30,22 +30,20 @@ I’m a developer interested in system-level programming, backend engineering, a
 
 ## Featured Projects
 
-### 🔹 Taco-Shop  
-A MERN-based e-commerce style project focusing on authentication, cart management, and backend APIs.  
-Repo: https://github.com/TheGeekyCoder06/Taco-Shop
+### Login Page (Next.js)
+A dedicated login page built with Next.js, focusing on clean UI and authentication structure.  
+Repo: https://github.com/TheGeekyCoder06/login-page-nextjs
 
-### 🔹 DSA Problem Solvers  
-A collection of C++ and Python solutions for arrays, strings, recursion, graphs, and trees.
-
-### 🔹 Next.js Mini Apps  
-Small, production-ready Next.js applications built while learning the framework.
+### OpenVerse – Blog Website
+A blog platform built using Next.js, focusing on clean typography, smooth UX, and creator-friendly features.  
+Repo: https://github.com/TheGeekyCoder06/OpenVerse
 
 ---
 
 ## Current Focus
 - Strengthening backend fundamentals  
 - Building full-stack applications with Next.js and MongoDB  
-- Improving depth in algorithms and system design basics  
+- Improving depth in algorithms and system design basics
 
 ---
 
@@ -61,5 +59,5 @@ Small, production-ready Next.js applications built while learning the framework.
 ---
 
 ## Contact
+Email: mharshith200@gmail.com  
 GitHub: [TheGeekyCoder06](https://github.com/TheGeekyCoder06)
-
